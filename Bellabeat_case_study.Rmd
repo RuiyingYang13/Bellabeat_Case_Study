@@ -1,11 +1,13 @@
 ---
 title: "Bellabeat Case Study"
 author: "Ruiying Yang"
-output: 
-  html_document: 
+output:
+  word_document:
+    toc: yes
+  html_document:
     toc: yes
     theme: cerulean
-editor_options: 
+editor_options:
   chunk_output_type: console
 ---
 
